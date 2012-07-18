@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = ["helma@in-silico.ch"]
   s.homepage    = ""
   s.summary     = %q{Simple OpenTox Feature Service}
-  s.description = %q{TODO: Write a gem description}
+  s.description = %q{Simple OpenTox Feature Service}
   s.license     = 'GPL-3'
 
   s.rubyforge_project = "feature"
